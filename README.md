@@ -5,6 +5,8 @@ Red light green light game as seen on Netflix's Squid Games using Javascript and
 
 Player must run along the track while being undected by the giant killer laser eye doll. Please note that the doll detects the player from the perspective of the player - when the doll looks at **you**.
 
+![demo-gif](https://github.com/starchy-tato/squid-game/blob/main/squidgame-demo.gif)
+
 ### Built With
 
 * [3D Doll Model](https://sketchfab.com/3d-models/squid-game-giant-doll-7afd49dd07714651a6afa1fc4aac8576)
