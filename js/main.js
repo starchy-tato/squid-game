@@ -46,9 +46,11 @@ function delay(ms){
 }
 
 // This work is based on "Squid Game - Giant Doll" (https://sketchfab.com/3d-models/squid-game-giant-doll-7afd49dd07714651a6afa1fc4aac8576) by Rzyas (https://sketchfab.com/rzyas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+let model="https://raw.githubusercontent.com/pannous/squid-game/main/models/scene.gltf"
+// "../models/scene.gltf"
 class Doll{
     constructor(){
-        loader.load("../models/scene.gltf", (gltf) => {
+        loader.load(model, (gltf) => {
             scene.add(gltf.scene);
             gltf.scene.scale.set(0.4, 0.4, 0.4);
             gltf.scene.position.set(0,-1,0);
