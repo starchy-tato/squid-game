@@ -9,6 +9,8 @@ Player must run along the track while being undected by the giant killer laser e
   <img src="https://github.com/starchy-tato/squid-game/blob/main/squidgame-demo.gif" alt="squid-game-demo gif" />
 </p>
 
+## [Play Now](https://pannous.github.io/squid-game/)
+
 ### Built With
 
 * [3D Doll Model](https://sketchfab.com/3d-models/squid-game-giant-doll-7afd49dd07714651a6afa1fc4aac8576)
